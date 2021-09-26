@@ -12,7 +12,7 @@ Features a back-end application using the MERN stack that utilized Google’s OA
 
 ### The Homepage to the OAuth2 boiler web app
 
-![Homepage](/Assets/homePage.JPG)
+![Homepage](/Assets/HomePage.JPG)
 
 ### The login page
 
