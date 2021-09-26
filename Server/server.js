@@ -57,7 +57,7 @@ app.use((error, req, res, next) => {
 });
 
 mongoose
-  .connect(DBConfig.remoteURI, {
+  .connect(DBConfig.uri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
   })
